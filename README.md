@@ -1,5 +1,5 @@
 ## Sumário
-``
+```shell
 composer install
 composer dump-autoload
 
